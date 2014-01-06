@@ -9,6 +9,9 @@ XHFaceMask 一款面具佩戴的组件，具有对人脸检测，眼睛和嘴巴
 4、可自定义设置佩戴面具的素材    
 
 
+![image](https://github.com/JackTeam/XHFaceMaskSDKSimple/raw/master/Screenshots/XHFaceMaskSDKSimple.png)
+
+
 开源模式
 
 1.SDK的模式
