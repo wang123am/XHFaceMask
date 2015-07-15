@@ -12,15 +12,6 @@ XHFaceMask 一款面具佩戴的组件，具有对人脸检测，眼睛和嘴巴
 ![image](https://github.com/JackTeam/XHFaceMaskSDKSimple/raw/master/Screenshots/XHFaceMaskSDKSimple.png)
 
 
-开源模式
-
-1.SDK的模式
-2.只要关注该组件的用户数量达到300个以上，将以开源所有代码的模式
-
-至于用什么模式，就靠你们来决定了
-
-决定模式
-
 想试玩和查收SDK效果项目工程请移步（已经打包好，方便大家下载调试）：https://github.com/JackTeam/XHFaceMaskSDKSimple
 
 License
